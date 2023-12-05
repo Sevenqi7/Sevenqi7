@@ -4,7 +4,7 @@ project(github-profile-template)
 
 set(SCHEMA light)
 
-set(USERNAME Seven7)
+set(USERNAME Sevenqi7)
 
 configure_file(
     ${CMAKE_SOURCE_DIR}/template/${SCHEMA}.template
