@@ -17,4 +17,3 @@ add_custom_target(
     COMMAND python ./scripts/apply-snippets.py ${SCHEMA}
     WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
 )
-
