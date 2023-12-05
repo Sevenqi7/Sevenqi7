@@ -13,6 +13,13 @@
 🌙 Night                  127 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.05 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**Sevenqi7**_ ⣿ [Generative zymelaii's GitHub profile](https://github.com/Sevenqi7/Sevenqi7) ⣿
+- 📌 _**profile**_ [🚪](https://github.com/Sevenqi7/profile)
+- 📌 _**MikuCPU**_ [🚪](https://github.com/Sevenqi7/MikuCPU)
+- 📌 _**minios-ext2**_ [🚪](https://github.com/Sevenqi7/minios-ext2)
+- 📌 _**ysyx_22040814**_ [🚪](https://github.com/Sevenqi7/ysyx_22040814)
 
 📊 **This Week I Spent My Time On** 
 
