@@ -5,6 +5,12 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs-blue)
+<div align="center">
+    <i>
+        <p>I got lost in self-criticism</p>
+        <p>and it was the kind of lost that's exactly like being found</p>
+    </i>
+</div>
 
 **I'm a Night 🦉** 
 
@@ -15,6 +21,13 @@
 🌙 Night                  137 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.18 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**Sevenqi7**_ ⣿ [Generative Seven7's GitHub profile](https://github.com/Sevenqi7/Sevenqi7) ⣿
+- 📌 _**MikuNop**_ [🚪](https://github.com/Sevenqi7/MikuNop)
+- 📌 _**MikuCPU**_ [🚪](https://github.com/Sevenqi7/MikuCPU)
+- 📌 _**Sevenqi7.github.io**_ [🚪](https://github.com/Sevenqi7/Sevenqi7.github.io)
+- 📌 _**MIT6.828**_ ⣿ [MIT6.828课程归档](https://github.com/Sevenqi7/MIT6.828) ⣿
 
 📊 **This Week I Spent My Time On** 
 
