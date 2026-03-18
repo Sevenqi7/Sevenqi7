@@ -4,39 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2019%20mins-blue?style=flat)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                57 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.71 % 
-🌆 Daytime                154 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.84 % 
-🌃 Evening                341 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.14 % 
-🌙 Night                  187 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.30 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**Sevenqi7**_ ⣿ [Generative Seven7's GitHub profile](https://github.com/Sevenqi7/Sevenqi7) ⣿
-- 📌 _**s3k**_ ⣿ [Capability-based real-time separation kernel for secure embedded RISC-V.](https://github.com/Sevenqi7/s3k) ⣿
-- 📌 _**astrbot_plugin_fortnue**_ ⣿ [适用于Astrbot的今日运势插件](https://github.com/Sevenqi7/astrbot_plugin_fortnue) ⣿
-- 📌 _**astrbot_plugin_ppnai**_ ⣿ [泡泡画图：基于 NovelAI 官方 API 的绘图插件，具有强大的文生图/图生图、氛围转移、角色保持、AI 辅助生图、自动画图、队列与额度管理能力。](https://github.com/Sevenqi7/astrbot_plugin_ppnai) ⣿
-- 📌 _**gem5**_ ⣿ [The official repository for the gem5 computer-system architecture simulator.](https://github.com/Sevenqi7/gem5) ⣿
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
