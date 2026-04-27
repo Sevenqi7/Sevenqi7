@@ -4,39 +4,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2019%20mins-blue?style=flat)
-<div align="center">
-    <i>
-        <p>I got lost in self-criticism</p>
-        <p>and it was the kind of lost that's exactly like being found</p>
-    </i>
-</div>
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                61 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.19 % 
-🌆 Daytime                154 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.67 % 
-🌃 Evening                342 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.91 % 
-🌙 Night                  188 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.23 % 
-```
-
-⏳ **What I've Been Working On Lately**
-
-- 📌 _**Sevenqi7**_ ⣿ [Generative Seven7's GitHub profile](https://github.com/Sevenqi7/Sevenqi7) ⣿
-- 📌 _**gem5**_ ⣿ [The official repository for the gem5 computer-system architecture simulator.](https://github.com/Sevenqi7/gem5) ⣿
-- 📌 _**s3k**_ ⣿ [Capability-based real-time separation kernel for secure embedded RISC-V.](https://github.com/Sevenqi7/s3k) ⣿
-- 📌 _**gsim**_ [🚪](https://github.com/OpenXiangShan/gsim)
-- 📌 _**ark-phone**_ [🚪](https://github.com/Sevenqi7/ark-phone)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
 <!--END_SECTION:waka-->
 
 <div align="center">
