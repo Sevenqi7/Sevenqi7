@@ -5,6 +5,12 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2019%20mins-blue?style=flat)
+<div align="center">
+    <i>
+        <p>I got lost in self-criticism</p>
+        <p>and it was the kind of lost that's exactly like being found</p>
+    </i>
+</div>
 
 **I'm a Night 🦉** 
 
@@ -15,6 +21,13 @@
 🌙 Night                  190 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.40 % 
 ```
 
+⏳ **What I've Been Working On Lately**
+
+- 📌 _**Sevenqi7**_ ⣿ [Generative Seven7's GitHub profile](https://github.com/Sevenqi7/Sevenqi7) ⣿
+- 📌 _**NoCDAS**_ ⣿ [A Cycle-Accurate NoC-based Deep Neural Network Accelerator Simulator](https://github.com/Sevenqi7/NoCDAS) ⣿
+- 📌 _**gsim**_ [🚪](https://github.com/OpenXiangShan/gsim)
+- 📌 _**s3k-cva6-sim**_ [🚪](https://github.com/Sevenqi7/s3k-cva6-sim)
+- 📌 _**cva6**_ ⣿ [This is the fork of CVA6 intended for PULP development.](https://github.com/Sevenqi7/cva6) ⣿
 
 📊 **This Week I Spent My Time On** 
 
